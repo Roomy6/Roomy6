@@ -1,12 +1,12 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on a simple text adventure game.
 - 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: Discord: Roomy#0065
 - ⚡ Fun fact: I dont know
 
-<!--
-**Roomy6/Roomy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Roomy6&show_icons=true&theme=radical" />
 
-Here are some ideas to get you started:
--->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roomy6&layout=compact" />
+h
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
