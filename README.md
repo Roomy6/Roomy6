@@ -1,7 +1,5 @@
 ## Hey There!👋
 
-- 🔭 I’m currently working on a simple text adventure game.
-- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me: Discord: Roomy#0065
 - ⚡ Fun fact: I dont know
 
